@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/nguyenquocThanh02/blog-nodejs-project#readme",
   "lint-staged": {
-    "src/**/*.{js, json, scss}": "prettier --single-quote --trailing-comma all --write src/**/*.{js,json,scss}"
+    "src/**/*.{js, json, scss}": "prettier --single-quote --trailing-comma all --write"
   },
   "husky": {
     "hooks": {
